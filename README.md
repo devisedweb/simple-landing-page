@@ -1,5 +1,3 @@
-# Simple Landing Page
-
-Day 1 of 100DaysOfCode
+# Day 1 of 100DaysOfCode - Simple Landing Page
 
 A simple card made using HTML and CSS.
